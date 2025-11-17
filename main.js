@@ -1,8 +1,10 @@
 console.log("from main file");
-console.log("from new-feature-1100");
+
+
 const func=()=>{
-    return 7
+    return 5+6+7
 }
+
 const a=()=>{
     console.log(a);
     
